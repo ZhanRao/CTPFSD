@@ -1,6 +1,7 @@
 # CTSLD
 大角度偏转车牌数据
 
+![鄂A0B167_1.jpg](images12/鄂A0B167_1.jpg)
 
 #数据的网址为链接：https://pan.baidu.com/s/1L4NiYSmMcYF-wZB6RmSnow 
 提取码：o9n2 
