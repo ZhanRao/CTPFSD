@@ -9,7 +9,13 @@
 
 
 大角度车牌的Unet标注图片
+![川A38K0K](https://github.com/ZhanRao/CTPSD/blob/main/image12/%E5%B7%9DA38K0K.jpg)
 
+![川A38K0K_mask](https://github.com/ZhanRao/CTPSD/blob/main/image12/%E5%B7%9DA38K0K_mask.jpg)
+
+
+
+该数据仅供学术研究活动，禁止用于商业研究。
 
 
 #数据的网址为链接：https://pan.baidu.com/s/1L4NiYSmMcYF-wZB6RmSnow 
