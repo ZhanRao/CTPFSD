@@ -1,4 +1,4 @@
-# CTPSD data
+# CTPFSD data
 
 ## 1.The figure below shows the correction effect of the model
 ![https://github.com/ZhanRao/CTSLD/blob/main/image12/%E9%84%82A0B167_1.jpg](https://github.com/ZhanRao/CTPSD/blob/main/img3.PNG)
